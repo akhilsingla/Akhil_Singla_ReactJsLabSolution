@@ -112,7 +112,7 @@ const ExpenseTracker = () => {
                         >
                             <Form.Label>Describe the expense</Form.Label>
                             <Form.Control
-                                placeholder="How much was spent? (Rs.)"
+                                placeholder="Purpose of spent?"
                                 ref={productRef}
                             />
                         </Form.Group>
